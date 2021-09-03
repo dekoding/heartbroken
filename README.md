@@ -1,7 +1,7 @@
-# heartbroken
+# Heartbroken
 It would be a real shame if people understood that an inexpensive VPN or proxy service can make it appear that your IP originates in Texas and allow you access sites that are restricted to in-state IP addresses. 
 
-It would also be just awful if people knew that you can generate six fake Texas address in seconds at: https://coolgenerator.com/address-generator
+It would also be just awful if people knew that you can generate six fake Texas addresses in seconds at: https://coolgenerator.com/address-generator
 
 I probably shouldn't mention that you can download a list of thousands of fake names in minutes at: https://fakenamegenerator.com/order 
 
