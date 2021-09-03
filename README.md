@@ -18,3 +18,6 @@ If they're leasing server time from a cloud provider, they may even be charged a
 That would be a damn shame, wouldn't it?
 
 It would be even worse if someone programmed a bot to do this automatically at random intervals.
+
+# Plans
+It would be such a shame if this repo contained scripts (in more than one language) for accomplishing everything above.
